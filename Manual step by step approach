@@ -1,0 +1,9 @@
+
+Remember  :::
+
+Harshal :: Api gateway  (dep(web, ureka client,slf4j or lombok), property)
+Divyani :: Admin-service (dep(web, mysql, slf4j or lombok, jpa, devtools), property)
+Pratham :: Menu-service (dep(web, mysql, slf4j or lombok, jpa, devtools), property)
+Sufiyan :: User-service (dep(web, mysql, slf4j or lombok, jpa, devtools), property)
+
+--------------------
