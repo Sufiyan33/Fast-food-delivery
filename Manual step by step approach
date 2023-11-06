@@ -6,4 +6,4 @@ Divyani :: Admin-service (dep(web, mysql, slf4j or lombok, jpa, devtools), prope
 Pratham :: Menu-service (dep(web, mysql, slf4j or lombok, jpa, devtools), property)
 Sufiyan :: User-service (dep(web, mysql, slf4j or lombok, jpa, devtools), property)
 
---------------------
+Task will be completed by end of tommorrow
