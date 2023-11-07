@@ -54,4 +54,4 @@ Once a user placed order then delivery boy will pick that parcel and will delive
 - Apache kafka (offset explorer)
 - Git
 - Maven
-- Clone git repository :
+- Fork git repository : https://github.com/Sufiyan33/Fast-food-delivery
