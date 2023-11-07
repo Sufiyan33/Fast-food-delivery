@@ -14,7 +14,7 @@ Once a user placed order then delivery boy will pick that parcel and will delive
 - [ ] Order placed
 - [ ] Deliver order
 
-#Architecture
+# Architecture
 - **Micro-service** architecture
 - **Config** : for swagger, logs, security etc
 - **Entities** : Represents a table ina database (pojo)
@@ -22,3 +22,36 @@ Once a user placed order then delivery boy will pick that parcel and will delive
 - **Controllers** : handlers or endpoints
 - **Helpers** : functions (Date, Strings, Conversions, Uploads, ...)
 - **Enums** : constant, keyword, ...
+
+# Components
+- Api Gateway
+- Service Registry
+- Admin Service
+- Retaurant Service
+- User Service
+- Location Service
+- Delivery Service
+- Cart Service
+- Payment Service
+- Notification Service
+
+# Dependencies
+- Spring web starter
+- Spring data JPA starter
+- Mysql
+- H2 databse
+- lomboc
+- Spring cloud
+- Eureka server
+- Eureka client
+- Histrix or Resilience4j
+- Devetools
+- Apache Kafka
+- Rest Template
+
+# Installation
+- Mysql database
+- Apache kafka (offset explorer)
+- Git
+- Maven
+- Clone git repository :
