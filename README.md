@@ -13,3 +13,10 @@ Once a user placed order then delivery boy will pick that parcel and will delive
 - [ ] Do payment
 - [ ] Order placed
 - [ ] Deliver order
+
+#Architecture
+- **Micro-service** architecture
+- **Config** : for swagger, logs, security etc
+- **Entities** : Represents a table ina database (pojo)
+- **Models** : Represents the Business Logic
+- **Controllers** : handlers or endpoints
