@@ -1,5 +1,5 @@
 package com.fast.food.user.service.modal;
 
-public class Restaurant {
+public class User {
 
 }
